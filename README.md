@@ -1,3 +1,11 @@
+Vladislav Kovaliov
+============
+
+-------------------     ----------------------------
+                              v.v.kovaliov@gmail.com
+     https://www.linkedin.com/in/vladislav-kovaliov/
+-------------------     ----------------------------
+
 ![](https://www.codewars.com/users/Vladislav/badges/micro)
 
 Technical stacks:
