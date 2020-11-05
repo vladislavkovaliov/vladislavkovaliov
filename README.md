@@ -12,4 +12,5 @@ Books:
   + Flask Web Development: Developing Web Applications with Python, by Miguel Grinberg 
 
 ![VladislavKovaliov's github stats](https://github-readme-stats.vercel.app/api?username=vladislavkovaliov&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
