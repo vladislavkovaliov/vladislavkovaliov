@@ -3,17 +3,6 @@ Vladislav Kovaliov
 ![](https://www.codewars.com/users/Vladislav/badges/micro)
 ============
 
------------------------------------------------     -----------------------------------------------
-LinkedIn                                            https://www.linkedin.com/in/vladislav-kovaliov/
------------------------------------------------     -----------------------------------------------
-
-Technical stacks:
- + JavaScript/TypeScript
- + React/Redux
- + Node.js(Express)
- + Python(Flask)
- + MongoDB(Compass)
-
 Books:
 + TypeSctipt
   + Programming TypeScript. by Boris Cherny
@@ -22,3 +11,5 @@ Books:
 + Python
   + Flask Web Development: Developing Web Applications with Python, by Miguel Grinberg 
 
+![VladislavKovaliov's github stats](https://github-readme-stats.vercel.app/api?username=vladislavkovaliov&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
