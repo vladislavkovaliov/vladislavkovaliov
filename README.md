@@ -3,14 +3,6 @@ Vladislav Kovaliov
 ![](https://www.codewars.com/users/Vladislav/badges/micro)
 ============
 
-Books:
-+ TypeSctipt
-  + Programming TypeScript. by Boris Cherny
-+ JavaScript
-  + Learning JavaScript Design Patterns, by Addy Osmani
-+ Python
-  + Flask Web Development: Developing Web Applications with Python, by Miguel Grinberg 
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
