@@ -21,3 +21,6 @@ Vladislav Kovaliov
 ## &#x1f4c8; GitHub Stats
 ![VladislavKovaliov's github stats](https://github-readme-stats.vercel.app/api?username=vladislavkovaliov&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
+
+## &#x1f4c8; GitHub Trophy
+![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true)
