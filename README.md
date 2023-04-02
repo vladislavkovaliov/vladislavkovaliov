@@ -1,6 +1,4 @@
-![](https://www.codewars.com/users/Vladislav/badges/micro)
-
-[LeetCode Profile](https://leetcode.com/vladislavkovaliov/)
+![Codewars](https://www.codewars.com/users/Vladislav/badges/micro) ![Solved](https://badges.peiyuan.ch/leetcode/vladislavkovaliov/solved)
 
 
 ## 🔧 What I technologies & tools use?
@@ -11,8 +9,22 @@
 ![VladislavKovaliov's github stats](https://github-readme-stats.vercel.app/api?username=vladislavkovaliov&count_private=true&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
 
 ## 🏆 How many GitHub Trophy I have?
-![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai&row=1)
+
+## Medium
+
+[How to start using Python in your pet-projects](https://v-v-kovaliov.medium.com/how-to-start-use-python-in-yours-pet-projects-1f56a461a2b1)
+
 
 ## How to contact me?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vladislav-kovaliov/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.v.kovaliov@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/vladislav-kovaliov/)
+
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/vladislavkovaliov/count.svg"/>
+  </div> 
+</p>
+
