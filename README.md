@@ -12,6 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai&row=1)
 
 ## NPM Packages
+[least frequently used](https://www.npmjs.com/package/least-frequently-used)
 [command stack pattern](https://www.npmjs.com/package/command-stack-pattern)
 
 ## Medium
