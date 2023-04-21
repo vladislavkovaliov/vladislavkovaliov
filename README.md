@@ -18,7 +18,7 @@
 ## Medium
 
 [How to start using Python in your pet-projects](https://v-v-kovaliov.medium.com/how-to-start-use-python-in-yours-pet-projects-1f56a461a2b1)
-
+[Introduction to custom Bash script for beginners](https://medium.com/@v-v-kovaliov/introduction-to-custom-bash-script-for-beginners-6fe65e0e5c39)
 
 ## How to contact me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vladislav-kovaliov/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.v.kovaliov@gmail.com)
