@@ -15,7 +15,7 @@
  [least frequently used](https://www.npmjs.com/package/least-frequently-used) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern)
  
 ## Github Packages
-[vite plugin resticted variable leaks](https://github.com/users/vladislavkovaliov/packages/npm/package/vite-plugin-resticted-variable-leaks)
+[vite plugin resticted variable leaks](https://github.com/users/vladislavkovaliov/packages/npm/package/vite-plugin-resticted-variable-leaks) | [vite insert git tag plugin](https://github.com/vladislavkovaliov/vite-insert-git-tag-plugin/pkgs/npm/vite-insert-git-tag-plugin)
 
 ## Medium
 
