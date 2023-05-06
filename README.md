@@ -11,6 +11,9 @@
 ## 🏆 How many GitHub Trophy I have?
 ![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai&row=1)
 
+## Github repos
+[My neovim setup](https://github.com/vladislavkovaliov/nvim)
+
 ## NPM Packages
  [least frequently used](https://www.npmjs.com/package/least-frequently-used) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern)
  
