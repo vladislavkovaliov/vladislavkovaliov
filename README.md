@@ -6,7 +6,7 @@
 
 
 ## &#x1f4c8; How I use GitHub?
-![VladislavKovaliov's github stats](https://github-readme-stats.vercel.app/api?username=vladislavkovaliov&count_private=true&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
 
 ## 🏆 How many GitHub Trophy I have?
 ![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai&row=1)
