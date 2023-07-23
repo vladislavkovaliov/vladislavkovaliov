@@ -28,7 +28,7 @@
 [Weather on Vercel](https://weather-ochre-iota.vercel.app/) | [Weather on Firebase](https://weat-29010.firebaseapp.com/) | [2048(Desktop)](https://project-6084874703720778896.web.app/)
 
 ## How to contact me?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vladislav-kovaliov/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.v.kovaliov@gmail.com) [![BUYMEABOOK](https://img.shields.io/badge/buymeabook-ffd966?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vkovaliov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vladislav-kovaliov/) [![BUYMEABOOK](https://img.shields.io/badge/buymeabook-ffd966?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vkovaliov)
 
 <p align="center"> 
   <div align="center">Visitor count</div>
