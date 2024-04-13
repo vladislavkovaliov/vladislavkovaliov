@@ -15,7 +15,7 @@
 [My neovim setup](https://github.com/vladislavkovaliov/nvim)
 
 ## NPM Packages
- [least frequently used](https://www.npmjs.com/package/least-frequently-used) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern)
+[axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) | [least frequently used](https://www.npmjs.com/package/least-frequently-used) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern)
  
 ## Github Packages
 [vite plugin resticted variable leaks](https://github.com/users/vladislavkovaliov/packages/npm/package/vite-plugin-resticted-variable-leaks) | [vite insert git tag plugin](https://github.com/vladislavkovaliov/vite-insert-git-tag-plugin/pkgs/npm/vite-insert-git-tag-plugin)
