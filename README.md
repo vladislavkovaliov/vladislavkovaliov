@@ -1,4 +1,4 @@
-![Codewars](https://www.codewars.com/users/Vladislav/badges/micro) ![Solved](https://badges.peiyuan.ch/leetcode/vladislavkovaliov/solved)
+<img width="177" alt="image" src="https://github.com/user-attachments/assets/3b877d48-9430-45be-a095-6ca4608fe29a">![Codewars](https://www.codewars.com/users/Vladislav/badges/micro) ![Solved](https://badges.peiyuan.ch/leetcode/vladislavkovaliov/solved)
 
 
 ## 🔧 What do I use?
@@ -25,7 +25,7 @@
 [How to start using Python in your pet-projects](https://v-v-kovaliov.medium.com/how-to-start-use-python-in-yours-pet-projects-1f56a461a2b1) | [Introduction to custom Bash script for beginners](https://medium.com/@v-v-kovaliov/introduction-to-custom-bash-script-for-beginners-6fe65e0e5c39)
 
 ## Pet projects
-[Weather on Vercel](https://weather-ochre-iota.vercel.app/) | [Weather on Firebase](https://weat-29010.firebaseapp.com/) | [2048(Desktop)](https://project-6084874703720778896.web.app/) | [Tetris(Desktop|Phone)](https://tetris-4f4f6.web.app/) | [Sudoku](https://sudoky-47d5d.web.app)
+[Weather on Vercel](https://weather-ochre-iota.vercel.app/) | [Weather on Firebase](https://weat-29010.firebaseapp.com/) | [2048(Desktop)](https://project-6084874703720778896.web.app/) | [Tetris(Desktop|Phone)](https://tetris-4f4f6.web.app/) | [Sudoku](https://sudoky-47d5d.web.app) [Player] | (https://github.com/vladislavkovaliov/rust-mp3-player)
 
 ## How to contact me?
 [![BUYMEABOOK](https://img.shields.io/badge/buymeabook-ffd966?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vkovaliov)
