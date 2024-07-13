@@ -1,4 +1,4 @@
-<img width="177" alt="image" src="https://github.com/user-attachments/assets/3b877d48-9430-45be-a095-6ca4608fe29a">![Codewars](https://www.codewars.com/users/Vladislav/badges/micro) ![Solved](https://badges.peiyuan.ch/leetcode/vladislavkovaliov/solved)
+![Codewars](https://www.codewars.com/users/Vladislav/badges/micro) ![Solved](https://badges.peiyuan.ch/leetcode/vladislavkovaliov/solved)
 
 
 ## 🔧 What do I use?
