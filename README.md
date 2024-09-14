@@ -15,7 +15,7 @@
 [My neovim setup](https://github.com/vladislavkovaliov/nvim)
 
 ## NPM Packages
-[simple react router stack](https://www.npmjs.com/package/simple-react-router-stack) | [axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) | [least frequently used](https://www.npmjs.com/package/least-frequently-used) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern) | [wi console logger](https://www.npmjs.com/package/wi-console-logger)
+[wi console logger](https://www.npmjs.com/package/wi-console-logger) | [axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) | [simple react router stack](https://www.npmjs.com/package/simple-react-router-stack) | [command stack pattern](https://www.npmjs.com/package/command-stack-pattern) | [least frequently used](https://www.npmjs.com/package/least-frequently-used)
  
 ## Github Packages
 [vite plugin resticted variable leaks](https://github.com/users/vladislavkovaliov/packages/npm/package/vite-plugin-resticted-variable-leaks) | [vite insert git tag plugin](https://github.com/vladislavkovaliov/vite-insert-git-tag-plugin/pkgs/npm/vite-insert-git-tag-plugin)
@@ -25,8 +25,7 @@
 [How to start using Python in your pet-projects](https://v-v-kovaliov.medium.com/how-to-start-use-python-in-yours-pet-projects-1f56a461a2b1) | [Introduction to custom Bash script for beginners](https://medium.com/@v-v-kovaliov/introduction-to-custom-bash-script-for-beginners-6fe65e0e5c39)
 
 ## Pet projects
-[Weather on Vercel](https://weather-ochre-iota.vercel.app/) | [Weather on Firebase](https://weat-29010.firebaseapp.com/) | [2048(Desktop)](https://project-6084874703720778896.web.app/) | [Tetris(Desktop|Phone)](https://tetris-4f4f6.web.app/) | [Sudoku](https://sudoky-47d5d.web.app) | [Player](https://github.com/vladislavkovaliov/rust-mp3-player) | [Git Hub Chrome Ext](https://chromewebstore.google.com/detail/github-helpers/jlppehgmheodaeknongkilmmhfjgjgjp?authuser=0&hl=en)
-
+[Player](https://github.com/vladislavkovaliov/rust-mp3-player) | [Git Hub Chrome Ext](https://chromewebstore.google.com/detail/github-helpers/jlppehgmheodaeknongkilmmhfjgjgjp?authuser=0&hl=en) | [Weather on Vercel](https://weather-ochre-iota.vercel.app/) | [Sudoku](https://sudoky-47d5d.web.app) | [Weather on Firebase](https://weat-29010.firebaseapp.com/) | [2048(Desktop)](https://project-6084874703720778896.web.app/) | [Tetris(Desktop|Phone)](https://tetris-4f4f6.web.app/) 
 ## How to contact me?
 [![BUYMEABOOK](https://img.shields.io/badge/buymeabook-ffd966?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vkovaliov)
 
