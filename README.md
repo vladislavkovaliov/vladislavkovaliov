@@ -8,9 +8,6 @@
 ## &#x1f4c8; How I use GitHub?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
 
-## 🏆 How many GitHub Trophy I have?
-![](https://github-profile-trophy.vercel.app/?username=vladislavkovaliov&no-frame=true&theme=monokai&row=1)
-
 ## Github repos
 [My neovim setup](https://github.com/vladislavkovaliov/nvim)
 
