@@ -9,7 +9,7 @@
 
 ## Github repos
 - [My neovim setup](https://github.com/vladislavkovaliov/nvim) (archived)
-- [lazyvim config](https://github.com/vladislavkovaliov/lazyvim) (archive)
+- [lazyvim config](https://github.com/vladislavkovaliov/lazyvim) (archived)
 - [LazyVimPersonal](https://github.com/vladislavkovaliov/LazyVimPersonal) - Forked and extended.
 
 ## NPM Packages
