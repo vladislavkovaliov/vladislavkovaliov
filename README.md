@@ -10,7 +10,7 @@
 ## Github repos
 - [My neovim setup](https://github.com/vladislavkovaliov/nvim) (archived)
 - [lazyvim config](https://github.com/vladislavkovaliov/lazyvim) (archived)
-- [LazyVimPersonal](https://github.com/vladislavkovaliov/LazyVimPersonal) - Forked and extended.
+- [LazyVimPersonal](https://github.com/vladislavkovaliov/LazyVimPersonal) - Fork
 
 ## NPM Packages
 - [wi console logger](https://www.npmjs.com/package/wi-console-logger) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/wi-console-logger) - Highlighting console native logging. A simple way to disable logging in production mode.
