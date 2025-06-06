@@ -7,6 +7,10 @@
 ## &#x1f4c8; How I use GitHub?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavkovaliov&layout=compact&theme=dark)
 
+## Contributing
+- [ChartDB](https://github.com/chartdb/chartdb)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) 
+
 ## Github repos
 - [My neovim setup](https://github.com/vladislavkovaliov/nvim) (archived)
 - [lazyvim config](https://github.com/vladislavkovaliov/lazyvim) (archived)
@@ -36,11 +40,13 @@
   Chrome extension without Chrome extension framework. Easy way to handle pull request actions, navigation followers/followings, dashboard activity, and settings view.
 - [Weather on Vercel](https://weather-ochre-iota.vercel.app/)
 - [Sudoku](https://sudoky-47d5d.web.app)
-  The Sudoku Web version with both JavaScript and Preact library was merged by the Vite build tooling. Integrated with Firebase to store scoring. Win animation is coded via recursive function.
+  The Sudoku Web version with both JavaScript and Preact library was merged by the Vite build tooling. Integrated with Firebase to store scoring. Win animation is coded via a recursive function.
 - [Weather on Firebase](https://weat-29010.firebaseapp.com/)
 - [2048(Desktop)](https://project-6084874703720778896.web.app/)
 - [Tetris(Desktop|Phone)](https://tetris-4f4f6.web.app/)
   Tetris Web version is coded with only JavaScript.
+
+ 
   
 ## How to contact me?
 [![BUYMEABOOK](https://img.shields.io/badge/buymeabook-ffd966?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vkovaliov)
