@@ -17,6 +17,7 @@
 - [LazyVimPersonal](https://github.com/vladislavkovaliov/LazyVimPersonal) - Fork
 
 ## NPM Packages
+- [wi-transport](https://www.npmjs.com/package/wi-transport?activeTab=readme) - Reactive Transport Layer (with Middleware & WebSocket support)
 - [condition-builder](https://www.npmjs.com/package/condition-builder?activeTab=readme) - A tiny JavaScript utility that helps you write clean, readable multi-way conditional logic without if/else and without nested complex ternary statements.
 - [wi console logger](https://www.npmjs.com/package/wi-console-logger) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/wi-console-logger) - Highlighting console native logging. A simple way to disable logging in production mode.
 - [axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/axios-apply-interceptors) - Make it simple to add interceptors into axios and reusable.
