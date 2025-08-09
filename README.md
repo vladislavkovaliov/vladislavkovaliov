@@ -17,6 +17,7 @@
 - [LazyVimPersonal](https://github.com/vladislavkovaliov/LazyVimPersonal) - Fork
 
 ## NPM Packages
+- [wi-functions-emitter](https://www.npmjs.com/package/wi-functions-emitter) - A minimal, strongly-typed event system using a LinkedList-based listener registry. Perfect for handling internal communication between services, modules, or UI logic.
 - [wi-transport](https://www.npmjs.com/package/wi-transport?activeTab=readme) - Reactive Transport Layer (with Middleware & WebSocket support)
 - [wi-condition-builder](https://www.npmjs.com/package/wi-condition-builder) - A tiny JavaScript utility that helps you write clean, readable multi-way conditional logic without if/else and without nested complex ternary statements.
 - [wi console logger](https://www.npmjs.com/package/wi-console-logger) - Highlighting console native logging. A simple way to disable logging in production mode.
