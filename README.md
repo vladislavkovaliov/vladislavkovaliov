@@ -18,12 +18,12 @@
 
 ## NPM Packages
 - [wi-transport](https://www.npmjs.com/package/wi-transport?activeTab=readme) - Reactive Transport Layer (with Middleware & WebSocket support)
-- [condition-builder](https://www.npmjs.com/package/condition-builder?activeTab=readme) - A tiny JavaScript utility that helps you write clean, readable multi-way conditional logic without if/else and without nested complex ternary statements.
-- [wi console logger](https://www.npmjs.com/package/wi-console-logger) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/wi-console-logger) - Highlighting console native logging. A simple way to disable logging in production mode.
-- [axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/axios-apply-interceptors) - Make it simple to add interceptors into axios and reusable.
-- [simple react router stack](https://www.npmjs.com/package/simple-react-router-stack) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/simple-react-router-stack) - Make it simple navigation to add basic navigation in a React application.
-- [command stack pattern](https://www.npmjs.com/package/command-stack-pattern) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/command-stack-pattern)
-- [least frequently used](https://www.npmjs.com/package/least-frequently-used) ![](https://wi-npm-downloads-stats.vercel.app/api/versions/least-frequently-used)
+- [wi-condition-builder](https://www.npmjs.com/package/wi-condition-builder) - A tiny JavaScript utility that helps you write clean, readable multi-way conditional logic without if/else and without nested complex ternary statements.
+- [wi console logger](https://www.npmjs.com/package/wi-console-logger) - Highlighting console native logging. A simple way to disable logging in production mode.
+- [wi-command stack](https://www.npmjs.com/package/wi-command-stack)
+- [axios apply interceptors](https://www.npmjs.com/package/axios-apply-interceptors) - Make it simple to add interceptors into axios and reusable.
+- [simple react router stack](https://www.npmjs.com/package/simple-react-router-stack)
+- [least frequently used](https://www.npmjs.com/package/least-frequently-used) 
 
  
 ## Github Packages
